@@ -1,0 +1,5 @@
+vpc_id = vpc-01bd7892d378924f7
+ami_id = ami-07caf09b362be10b8
+security Group
+subnet-id = subnet-070b62dd256242b26
+US EAST (N. VARGINIA) us-east-1
